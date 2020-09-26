@@ -43,9 +43,9 @@ I have also created [a set of Jupyter notebooks](https://github.com/academicpage
 
 Publications
 ------
-aaaa
-aaa
-as
+[3]  
+[2]  
+[1]  
 
 For more info
 ------
